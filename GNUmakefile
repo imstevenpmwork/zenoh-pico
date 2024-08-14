@@ -47,7 +47,7 @@ FORCE_C99?=OFF
 #  1: ERROR
 #  2: INFO + ERROR
 #  3: DEBUG + INFO + ERROR
-ZENOH_DEBUG?=0
+ZENOH_DEBUG?=3
 
 # Feature config toggle
 # Accepted values: 0, 1
